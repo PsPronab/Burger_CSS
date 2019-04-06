@@ -1,0 +1,117 @@
+.main
+{
+    width: 300px;
+    height: 450px;
+    margin: auto;
+}
+.bread01
+{
+    height: 20%;
+    width: 80%;
+    background: #1d1b1be6;
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px 0 #312e29;
+    margin: 2% auto;
+    
+}
+
+.seeds
+{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    background: white;
+    left: 42.5%;
+    top: 5.5%;
+    border-radius: 40%;
+    box-shadow: inset -1px 3px #c9c9c9;
+    transform: rotate(-50deg);
+}
+.seeds01
+{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    background: white;
+    left: 46%;
+    top: 7.5%;
+    border-radius: 40%;
+    box-shadow: inset -2px -3px #c9c9c9;
+    transform: rotate(51deg);
+}
+
+.seeds02
+{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    background: white;
+    left: 49.5%;
+    top: 2%;
+    border-radius: 40%;
+    box-shadow: inset -1px -3px #c9c9c9;
+    transform: rotate(-51deg);
+}
+
+.seeds03
+{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    background: white;
+    left: 53%;
+    top: 8%;
+    border-radius: 40%;
+    box-shadow: inset 1px 3px #c9c9c9;
+    transform: rotate(-45deg);
+}
+
+.seeds04
+{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    background: white;
+    left: 56%;
+    top: 6%;
+    border-radius: 40%;
+    box-shadow: inset 3px 3px #c9c9c9;
+    transform: rotate(-15deg);
+}
+
+.salad
+{
+    height: 8%;
+    width: 90%;
+    background: linear-gradient(#16731a, #9edc5be8);
+    margin: 2% auto;
+    border-radius: 20px;
+}
+
+.cheese
+{
+    height: 3%;
+    width: 85%;
+    background: linear-gradient(#f5d107, #c7b029);
+    margin: 2% auto;
+    border-radius: 20px;
+}
+.chiken
+{
+    height: 8%;
+    width: 84%;
+    background: linear-gradient(#7f3608, #702e05);
+    margin: 2% auto;
+    border-radius: 15px;
+}
+
+.bread02
+{
+    height: 14%;
+    width: 80%;
+    background: #1d1b1be6;
+    border-radius: 0% 0 50% 50%;
+    box-shadow: inset -15px 0 #312e29;
+    margin: 2% auto;
+    
+} 
